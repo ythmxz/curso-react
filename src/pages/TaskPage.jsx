@@ -14,7 +14,7 @@ function TaskPage() {
 
 		<div className="w-screen h-screen bg-zinc-900 flex justify-center p-6">
 
-			<div className="w-[500px] space-y-4">
+			<div className="w-[500px] mx-auto space-y-4">
 
 				<div className="flex justify-center relative mb-6">
 
